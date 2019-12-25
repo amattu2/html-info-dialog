@@ -1,8 +1,8 @@
 # Introduction
-N/A
+This is a HTML/CSS update/info dialog template.
 
 # Usage
-N/A
+Self explanatory.
 
 # Notes
 N/A
@@ -11,4 +11,4 @@ N/A
 N/A
 
 # Previews
-![preview image](https://via.placeholder.com/350x240)
+![preview image](https://github.com/amattu2/html-info-dialog/blob/master/assets/img/screenshot.png)
